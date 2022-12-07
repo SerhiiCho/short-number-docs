@@ -2,13 +2,10 @@ import { defineUserConfig, defaultTheme } from 'vuepress'
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
-    base: '/timeago-docs/',
+    base: '/short-number-docs/',
     lang: 'en-US',
-    title: 'Timeago',
+    title: 'Short number',
     description: 'Lightweight package that shortens given number by taking digits and adding K, M, B or T after them',
-    head: [
-        ['link', { rel: 'icon', href: '/images/favicon.png' }],
-    ],
     plugins: [
         searchPlugin({
             locales: {
@@ -19,7 +16,6 @@ export default defineUserConfig({
         })
     ],
     theme: defaultTheme({
-        logo: '/images/logo.png',
         navbar: [
             {
                 text: 'Documentation',
