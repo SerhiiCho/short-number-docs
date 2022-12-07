@@ -30,11 +30,11 @@ export default defineUserConfig({
                 link: 'https://github.com/SerhiiCho/short-number',
             },
             {
-                text: 'Changelog',
+                text: '📃 Changelog',
                 link: 'https://github.com/SerhiiCho/short-number/blob/master/CHANGELOG.md',
             },
             {
-                text: 'About author',
+                text: '👤 About author',
                 link: 'https://serhii.io/about-me?welcome=keH13',
             },
         ],
