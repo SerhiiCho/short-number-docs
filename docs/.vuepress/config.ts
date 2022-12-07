@@ -19,7 +19,7 @@ export default defineUserConfig({
         navbar: [
             {
                 text: 'Documentation',
-                link: '/documentation',
+                link: '/',
             },
             {
                 text: 'Usage example',
