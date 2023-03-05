@@ -38,6 +38,10 @@ export default defineUserConfig({
                 link: 'https://serhii.io/about-me',
                 rel: 'author',
             },
+            {
+                text: '☕️ By me a coffee',
+                link: 'https://www.buymeacoffee.com/serhiicho',
+            },
         ],
     }),
 })
