@@ -13,6 +13,7 @@ Lightweight package shortens given number to a short representation of it. For e
 - ✅ 7.4
 - ✅ 8.0
 - ✅ 8.1
+- ✅ 8.2
 
 ## ⚙️ Language configurations
 
